@@ -264,7 +264,7 @@ background-color:#ffffff !important;
 {
 content:' ';
 display:block;
-background:url(https://heli.tccdev.net/wp-content/uploads/2016/08/top-line.png) no-repeat left top;
+background:url(/wp-content/uploads/2016/08/top-line.png) no-repeat left top;
 position:absolute;
 z-index:0;
 top:-9px;
