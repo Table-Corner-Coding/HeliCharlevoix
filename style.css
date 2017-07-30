@@ -1098,6 +1098,17 @@ body #page-container .et_pb_button_tcc small
 
 @media (min-width: 981px)
 {
+	
+	.top_langsw{
+		float:none;
+		text-align: center;
+	}
+	
+	.top_langsw .wpml-ls-legacy-list-vertical{
+		display: block;
+		text-align: center;
+	}
+	
 
 .et_pb_section.impressionnez_row .et_pb_column_2_3
 {
